@@ -1,6 +1,10 @@
 # HelloWorld
 
-This repository contains simple "Hello World" examples.
+This repository now includes a minimal GitHub Pages website alongside simple "Hello World" scripts.
+
+## Website
+
+Open `index.html` or visit the GitHub Pages site if enabled. It displays a clean, centered greeting styled with `style.css`.
 
 ## Examples
 
@@ -17,4 +21,3 @@ Run the script:
 ```bash
 node hello.js
 ```
-
